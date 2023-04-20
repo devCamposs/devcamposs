@@ -1,7 +1,7 @@
 <h1> Oi, me chamo Thomas</h1>
 
 - 🔭 Hoje eu busco uma vaga de back-end, mais logicamente também viso o Full Stack
-- 🌱 Estudando Python e Java
+- 🌱 Estudando Python e C#
 - 😄 Pronouns: ele/dele
 
 
