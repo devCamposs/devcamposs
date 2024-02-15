@@ -1,7 +1,7 @@
 <h1> Oi, me chamo Thomas</h1>
 
 - 🔭 Hoje eu busco uma vaga de desenvolvedor Full Stack, mais logicamente também viso o back end.
-- 🌱 Retomado faculdade de Desenvolvimento em Analise de Sistemas e estudando por conta própia C# e Python
+- 🌱 Retomado faculdade de Desenvolvimento em Analise de Sistemas
 - 😄 Pronouns: ele/dele
 
 
